@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Learning Journey</string>
+    <string name="name">Rhesa Devara</string>
+    <string name="ubah">Ubah</string>
+    <string name="name_change">Widyaputra</string>
+    <string name="lesson_name">Lesson</string>
+
+    <string-array name="title_name">
+        <item>Button</item>
+        <item>Fragment</item>
+        <item>Menu</item>
+        <item>Button</item>
+        <item>Button</item>
+        <item>Button</item>
+    </string-array>
 </resources>
